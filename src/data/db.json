@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Portfolio",
+      "task": "Develope my portfolio"
+    },
+    {
+      "id": 2,
+      "title": "Lapo Bank",
+      "task": "Develope lapo bank app"
+    },
+    {
+      "id": 4,
+      "title": "New Comp Updated",
+      "task": "New component added to system"
+    },
+    {
+      "id": 5,
+      "title": "Prepare Food",
+      "task": "BY 3pm i will be making Amala and Ewedu"
+    }
+  ]
+}
